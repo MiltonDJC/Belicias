@@ -1,6 +1,6 @@
 function recetas1(){
     document.getElementById("receta1").innerHTML = "Aquí es donde se encontraría la receta del producto que se ve encima del botón. <br> Lorem ipsum dolor sit, amet consectetur adipisicing elit. Porro dolor ab ducimus commodi ex non molestiae illum incidunt illo architecto veniam, modi doloremque ratione! Labore quod numquam illum iusto eos.";
-    document.getElementById("receta1").style.backgroundColor="#ffda9e";
+    document.getElementById("receta1").style.backgroundColor="red";
     document.getElementById("receta1").style.border="2px solid black";
     document.getElementById("receta1").style.borderRadius="10px";
     document.getElementById("receta1").style.padding="10px";
