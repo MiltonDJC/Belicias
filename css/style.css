@@ -11,18 +11,21 @@ body{
 .cabecera{
     display: block;
     text-align: center;
+    /* position: sticky;
+    top: 0; */
+    /* background-color: #fff; */
 }
 h1{
     display: inline-block;
-    margin: 25px;
+    margin: 20px 0 0;
     text-align: center;
     font-family: 'Rubik Moonrocks', cursive;
-    font-size: 55px;
-    font-weight:lighter;
+    font-weight: lighter;
 }
 .cabecera a{
     text-decoration: none;
     color: rgb(226, 188, 17);
+    font-size: 80px;
 }
 .intro{
     margin: 15px;
@@ -60,6 +63,7 @@ article p{
     margin: 30px 15px;
     font-size: 20px;
     font-weight: bolder;
+    font-family: 'Zen Antique', serif;
     /* animation-duration: 1s;
     animation-name: slidein; */
 }
